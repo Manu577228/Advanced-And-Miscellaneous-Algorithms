@@ -17,7 +17,7 @@ Each video breaks down the algorithm **conceptually**, **visually**, and with **
 
 ## 📘 Repository Structure
 
-Each algorithm is implemented in **both Java and Python** for better understanding across languages.
+Each algorithm is implemented in **both Java and Python** for better understanding across languages!
 
 | # | Algorithm Name | Java File | Python File |
 |---|----------------|------------|--------------|
